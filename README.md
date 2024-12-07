@@ -1,0 +1,2 @@
+# JavaScript Type Coercion Bug
+This example demonstrates a common JavaScript error caused by loose typing and implicit type coercion.  The `foo` function is intended to add two numbers, but due to JavaScript's behavior, it concatenates strings when a string is passed as an argument.
